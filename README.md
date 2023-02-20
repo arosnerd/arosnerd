@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi! I'm Anna Rosner (she/her).
+- 🦾 I absolutely love robotics, and I want to make it available to everyone!
+- 🪴 I'm currently working on app development, robotics research, and STEM education!
+
 
 <!--
 **arosnerd/arosnerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
